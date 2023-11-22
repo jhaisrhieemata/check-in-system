@@ -1,0 +1,27 @@
+C:\Users\Admin\source\repos\POS and Inventory Management System\bin\Debug\Hotel and Inventory Management System.exe.config
+C:\Users\Admin\source\repos\POS and Inventory Management System\bin\Debug\Hotel and Inventory Management System.exe
+C:\Users\Admin\source\repos\POS and Inventory Management System\bin\Debug\Hotel and Inventory Management System.pdb
+C:\Users\Admin\source\repos\POS and Inventory Management System\bin\Debug\Hotel and Inventory Management System.xml
+C:\Users\Admin\source\repos\POS and Inventory Management System\bin\Debug\MySql.Data.dll
+C:\Users\Admin\source\repos\POS and Inventory Management System\obj\Debug\Hotel_and_Inventory_Management_System.frm_ChangePassword.resources
+C:\Users\Admin\source\repos\POS and Inventory Management System\obj\Debug\Hotel_and_Inventory_Management_System.frm_mainAdmin.resources
+C:\Users\Admin\source\repos\POS and Inventory Management System\obj\Debug\Hotel_and_Inventory_Management_System.frm_ManageUser.resources
+C:\Users\Admin\source\repos\POS and Inventory Management System\obj\Debug\Hotel_and_Inventory_Management_System.frm_mainCashier.resources
+C:\Users\Admin\source\repos\POS and Inventory Management System\obj\Debug\Hotel_and_Inventory_Management_System.frm_login.resources
+C:\Users\Admin\source\repos\POS and Inventory Management System\obj\Debug\Hotel_and_Inventory_Management_System.Resources.resources
+C:\Users\Admin\source\repos\POS and Inventory Management System\obj\Debug\Hotel and Inventory Management System.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\POS and Inventory Management System\obj\Debug\Hotel and Inventory Management System.exe
+C:\Users\Admin\source\repos\POS and Inventory Management System\obj\Debug\Hotel and Inventory Management System.xml
+C:\Users\Admin\source\repos\POS and Inventory Management System\obj\Debug\Hotel and Inventory Management System.pdb
+C:\Users\Admin\source\repos\POS and Inventory Management System\obj\Debug\Hotel_and_Inventory_Management_System.frm_CustomerRegistration.resources
+C:\Users\Admin\source\repos\POS and Inventory Management System\obj\Debug\Hotel_and_Inventory_Management_System.frm_record.resources
+C:\Users\Admin\source\repos\POS and Inventory Management System\obj\Debug\Hotel_and_Inventory_Management_System.frm_manageChecked_in.resources
+C:\Users\Admin\source\repos\POS and Inventory Management System\obj\Debug\Hotel and Inventory Management System.vbproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\POS and Inventory Management System\obj\Debug\Hotel and Inventory Management System.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\POS and Inventory Management System\obj\Debug\Hotel and Inventory Management System.vbproj.CopyComplete
+C:\Users\Admin\source\repos\POS and Inventory Management System\obj\Debug\Hotel_and_Inventory_Management_System.frm_billing.resources
+C:\Users\Admin\source\repos\POS and Inventory Management System\obj\Debug\Hotel_and_Inventory_Management_System.frm_checked_in.resources
+D:\JHAISRHIE FILES\Projects\POS and Inventory Management System\bin\Debug\Hotel and Inventory Management System.exe.config
+D:\JHAISRHIE FILES\Projects\POS and Inventory Management System\obj\Debug\Hotel and Inventory Management System.exe
+D:\JHAISRHIE FILES\Projects\POS and Inventory Management System\obj\Debug\Hotel and Inventory Management System.xml
+D:\JHAISRHIE FILES\Projects\POS and Inventory Management System\obj\Debug\Hotel and Inventory Management System.pdb
